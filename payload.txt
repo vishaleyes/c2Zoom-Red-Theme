@@ -1,0 +1,60 @@
+Array
+(
+    [audience] => null
+    [notification] => Array
+        (
+            [ios] => Array
+                (
+                    [badge] => +1
+                    [alert] => Doctor1 recieved your submitted documents at October 08, 2015 10:20:39
+                    [sound] => cat.caf
+                )
+
+        )
+
+    [device_types] => Array
+        (
+            [0] => ios
+        )
+
+)
+Array
+(
+    [audience] => f76d73be7087d25d84482642e1b1feeae43b3398b282041ff33e69b6148036b1
+    [notification] => Array
+        (
+            [ios] => Array
+                (
+                    [badge] => +1
+                    [alert] => Doctor1 recieved your submitted documents at October 08, 2015 10:20:39
+                    [sound] => cat.caf
+                )
+
+        )
+
+    [device_types] => Array
+        (
+            [0] => ios
+        )
+
+)
+Array
+(
+    [audience] => f76d73be7087d25d84482642e1b1feeae43b3398b282041ff33e69b6148036b1
+    [notification] => Array
+        (
+            [ios] => Array
+                (
+                    [badge] => +1
+                    [alert] => Doctor1 recieved your submitted documents at October 08, 2015 10:20:39
+                    [sound] => cat.caf
+                )
+
+        )
+
+    [device_types] => Array
+        (
+            [0] => ios
+        )
+
+)

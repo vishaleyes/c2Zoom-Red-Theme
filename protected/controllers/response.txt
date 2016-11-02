@@ -1,0 +1,23 @@
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/
+    [content_type] => application/vnd.urbanairship+json; version=3
+    [http_code] => 202
+    [header_size] => 279
+    [request_size] => 501
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.608
+    [namelookup_time] => 0
+    [connect_time] => 0.046
+    [pretransfer_time] => 0.156
+    [size_upload] => 256
+    [size_download] => 152
+    [speed_download] => 249
+    [speed_upload] => 421
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0.608
+    [redirect_time] => 0
+)

@@ -1,0 +1,288 @@
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 3.453
+    [namelookup_time] => 2.5
+    [connect_time] => 2.921
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 50695
+)
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => 
+    [http_code] => 0
+    [header_size] => 0
+    [request_size] => 0
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.828
+    [namelookup_time] => 0
+    [connect_time] => 0.422
+    [pretransfer_time] => 0
+    [size_upload] => 0
+    [size_download] => 0
+    [speed_download] => 0
+    [speed_upload] => 0
+    [download_content_length] => -1
+    [upload_content_length] => -1
+    [starttransfer_time] => 0
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 50711
+)
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => application/vnd.urbanairship+json; version=3
+    [http_code] => 404
+    [header_size] => 162
+    [request_size] => 494
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.547
+    [namelookup_time] => 0
+    [connect_time] => 0.016
+    [pretransfer_time] => 0.125
+    [size_upload] => 239
+    [size_download] => 51
+    [speed_download] => 93
+    [speed_upload] => 436
+    [download_content_length] => 51
+    [upload_content_length] => 239
+    [starttransfer_time] => 0.547
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 50713
+)
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => application/vnd.urbanairship+json; version=3
+    [http_code] => 404
+    [header_size] => 162
+    [request_size] => 456
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.859
+    [namelookup_time] => 0.156
+    [connect_time] => 0.203
+    [pretransfer_time] => 0.516
+    [size_upload] => 201
+    [size_download] => 51
+    [speed_download] => 59
+    [speed_upload] => 233
+    [download_content_length] => 51
+    [upload_content_length] => 201
+    [starttransfer_time] => 0.859
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 58126
+)
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => application/vnd.urbanairship+json; version=3
+    [http_code] => 404
+    [header_size] => 162
+    [request_size] => 456
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.719
+    [namelookup_time] => 0
+    [connect_time] => 0.031
+    [pretransfer_time] => 0.109
+    [size_upload] => 201
+    [size_download] => 51
+    [speed_download] => 70
+    [speed_upload] => 279
+    [download_content_length] => 51
+    [upload_content_length] => 201
+    [starttransfer_time] => 0.719
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 58138
+)
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => application/vnd.urbanairship+json; version=3
+    [http_code] => 404
+    [header_size] => 162
+    [request_size] => 456
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.453
+    [namelookup_time] => 0
+    [connect_time] => 0.031
+    [pretransfer_time] => 0.062
+    [size_upload] => 201
+    [size_download] => 51
+    [speed_download] => 112
+    [speed_upload] => 443
+    [download_content_length] => 51
+    [upload_content_length] => 201
+    [starttransfer_time] => 0.453
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 58145
+)
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => application/vnd.urbanairship+json; version=3
+    [http_code] => 404
+    [header_size] => 162
+    [request_size] => 456
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.687
+    [namelookup_time] => 0
+    [connect_time] => 0.031
+    [pretransfer_time] => 0.078
+    [size_upload] => 201
+    [size_download] => 51
+    [speed_download] => 74
+    [speed_upload] => 292
+    [download_content_length] => 51
+    [upload_content_length] => 201
+    [starttransfer_time] => 0.687
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 58156
+)
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => application/vnd.urbanairship+json; version=3
+    [http_code] => 404
+    [header_size] => 162
+    [request_size] => 456
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 0.516
+    [namelookup_time] => 0
+    [connect_time] => 0.047
+    [pretransfer_time] => 0.094
+    [size_upload] => 201
+    [size_download] => 51
+    [speed_download] => 98
+    [speed_upload] => 389
+    [download_content_length] => 51
+    [upload_content_length] => 201
+    [starttransfer_time] => 0.516
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 58892
+)
+Array
+(
+    [url] => https://go.urbanairship.com/api/push/broadcast/
+    [content_type] => application/vnd.urbanairship+json; version=3
+    [http_code] => 404
+    [header_size] => 162
+    [request_size] => 457
+    [filetime] => -1
+    [ssl_verify_result] => 20
+    [redirect_count] => 0
+    [total_time] => 1.906
+    [namelookup_time] => 1.516
+    [connect_time] => 1.547
+    [pretransfer_time] => 1.61
+    [size_upload] => 202
+    [size_download] => 51
+    [speed_download] => 26
+    [speed_upload] => 105
+    [download_content_length] => 51
+    [upload_content_length] => 202
+    [starttransfer_time] => 1.906
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 184.25.4.193
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 192.168.0.138
+    [local_port] => 61145
+)
